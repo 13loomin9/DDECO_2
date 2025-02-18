@@ -1,2 +1,2 @@
 # DDECO_2
-Portfolio Website assignment | Design for Digital Ecosystem
+Portfolio Website assignment in HTML & CSS for my Designing for Digital Ecosystem module
